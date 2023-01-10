@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Permainan.unity
     guid: 5b8816783ef648a479f1818fb037f650
+  - enabled: 1
+    path: Assets/Scenes/Bantuan.unity
+    guid: 86368861083137847954baf663653c7a
   m_configObjects: {}
