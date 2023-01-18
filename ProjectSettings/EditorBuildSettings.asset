@@ -23,4 +23,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Berhitung.unity
     guid: 20240eff913b19a42b9035e07b151e08
+  - enabled: 1
+    path: Assets/Asset luar/Pengetahuan/Game1.unity
+    guid: 9dfbe8d9a43916a4294856e3cd1c1acb
+  - enabled: 1
+    path: Assets/Asset luar/Pengetahuan/Game2.unity
+    guid: 1ff208fd2dfd89742a0ae30bc9e58589
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: f2d65d8d6431eb344b96ed4e4a16b510
+  - enabled: 1
+    path: Assets/Asset luar/Puzzle/Game1Puzzle.unity
+    guid: b7701f44982c88e4aa6462dea4a481d1
   m_configObjects: {}
