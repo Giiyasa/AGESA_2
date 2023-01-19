@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 141113417}
   - component: {fileID: 141113416}
   - component: {fileID: 141113415}
+  - component: {fileID: 141113419}
   m_Layer: 5
   m_Name: tentang
   m_TagString: Untagged
@@ -253,9 +254,29 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.2868852, y: 0.29769006}
   m_AnchorMax: {x: 0.71311474, y: 0.4115351}
-  m_AnchoredPosition: {x: -0.01751709, y: 0.3000183}
+  m_AnchoredPosition: {x: -0.01751709, y: -34.399902}
   m_SizeDelta: {x: 1.1909943, y: 0.76399994}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &141113419
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141113414}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: eecd5f434af1c1a4faef88ce75e77ce1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &176530546
 GameObject:
   m_ObjectHideFlags: 0
@@ -268,6 +289,7 @@ GameObject:
   - component: {fileID: 176530551}
   - component: {fileID: 176530550}
   - component: {fileID: 176530549}
+  - component: {fileID: 176530548}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -292,9 +314,29 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.017516, y: -754}
+  m_AnchoredPosition: {x: -0.017516, y: -717}
   m_SizeDelta: {x: 5315, y: 5315}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &176530548
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 176530546}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4c52a60370b08e24b9e2290858e2ad93, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!114 &176530549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -838,7 +880,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 14f0551d439d2c1409c3aa7721ff64df, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.8
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1218,6 +1260,7 @@ GameObject:
   - component: {fileID: 1487583747}
   - component: {fileID: 1487583746}
   - component: {fileID: 1487583745}
+  - component: {fileID: 1487583749}
   m_Layer: 5
   m_Name: Permainan
   m_TagString: Untagged
@@ -1336,9 +1379,29 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.2868852, y: 0.43177485}
   m_AnchorMax: {x: 0.71311474, y: 0.54238003}
-  m_AnchoredPosition: {x: -0.01751709, y: 0.5}
+  m_AnchoredPosition: {x: -0.01751709, y: -34.19995}
   m_SizeDelta: {x: 1.1876831, y: 2.8162994}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &1487583749
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1487583744}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3ef399cbb7b01b043b5ad3b3c88c2bfa, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &1499873156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1350,6 +1413,7 @@ GameObject:
   - component: {fileID: 1499873159}
   - component: {fileID: 1499873158}
   - component: {fileID: 1499873157}
+  - component: {fileID: 1499873160}
   m_Layer: 5
   m_Name: Logo Agesa
   m_TagString: Untagged
@@ -1414,6 +1478,26 @@ RectTransform:
   m_AnchoredPosition: {x: -0.5, y: -0.19995117}
   m_SizeDelta: {x: 2.7279053, y: 2.0546112}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &1499873160
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499873156}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 37d89c5c9658d024ebc9fede0d001316, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &1709449139
 GameObject:
   m_ObjectHideFlags: 0
@@ -1509,6 +1593,7 @@ GameObject:
   - component: {fileID: 2123025109}
   - component: {fileID: 2123025108}
   - component: {fileID: 2123025107}
+  - component: {fileID: 2123025111}
   m_Layer: 5
   m_Name: Bantuan
   m_TagString: Untagged
@@ -1630,3 +1715,23 @@ RectTransform:
   m_AnchoredPosition: {x: -0.017486572, y: -0.30004883}
   m_SizeDelta: {x: 1.1900024, y: 1.7619934}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &2123025111
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2123025106}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fabfa8c0de962af4195c84324b05c4b6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
