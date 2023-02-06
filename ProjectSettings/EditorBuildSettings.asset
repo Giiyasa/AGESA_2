@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Asset luar/Puzzle/Game1Puzzle.unity
     guid: b7701f44982c88e4aa6462dea4a481d1
+  - enabled: 1
+    path: Assets/Asset luar/Puzzle/Game2Puzzle.unity
+    guid: a7cc55036d0e166438a59f7d8634e52d
   m_configObjects: {}
