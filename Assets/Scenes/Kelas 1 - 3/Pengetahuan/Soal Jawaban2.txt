@@ -1,0 +1,35 @@
+Nini mempunyai 10 buah boneka, diambil adik 4, berapa sisa boneka Nini...
++4 Buah
++5 Buah
++6 Buah
++9 Buah
++C
+
+#Karena Tati sudah mempunyai 5 apel merah kemudian diberi 3 apel hijau, maka apel yang Tati miliki sekarang adalah 5 ditambah 3...
++3 Buah
++7 Buah
++10 Buah  
++8 Buah
++D
+
+#Noni mandi tiga kali sehari. Selain itu, Noni menggosok gigi sesudah makan dan sebelum tidur. Noni telah merawat .... tubuhnya.
++kebersihan
++kesehatan
++keindahan
++Kebaikan
++A
+
+# Rani membaca di tempat yang memiliki penerangan yang buruk. Hal itu akan membuat …. Rani sakit.
++Badan
++Kepala
++Tangan
++Mata
++D
+
+#sarapan – Mira – bersama – di rumah – keluarga Susunan kalimat yang benar adalah ...
++Mira sarapan bersama keluarga di rumah.
++Mira di rumah bersama keluarga sarapan.
++Mira di rumah bersama keluarga sarapan.
++Mira Bersama Keluarga di rumah sarapan.
++A
+
